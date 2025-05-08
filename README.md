@@ -2,6 +2,7 @@
 
 ## Description
 100 People - Face Detection & Face 96 Landmarks Annotation Data. The data includes multiple ages, multiple time periods and multiple races (Caucasian, Black, Indian). The driver behaviors includes dangerous behavior, fatigue behavior and visual movement behavior. In terms of device, infrared cameras were applied. In terms of annotation, each individual consists of 274 to 299 photos, with annotations for detected facial bounding boxes and 96 facial landmarks. The data can be used for tasks such as facial detection, 96 facial landmark recognition.
+
 For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1588?source=Github
 
 ## Specifications
