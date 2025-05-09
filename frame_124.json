@@ -1,0 +1,800 @@
+{
+    "shapes": [
+        {
+            "group_id": 1,
+            "bbox_info": {
+                "label": "face",
+                "face_type": "Normal_Face",
+                "bbox": [
+                    743.946778711485,
+                    123.36367880485523,
+                    946.1690009337071,
+                    389.4747899159663
+                ]
+            },
+            "points_info": [
+                {
+                    "label": "0",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        756.1690009337074,
+                        232.88748832866474
+                    ]
+                },
+                {
+                    "label": "1",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        755.4287279806134,
+                        245.4511621908899
+                    ]
+                },
+                {
+                    "label": "2",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        755.9874766493118,
+                        257.2679971507719
+                    ]
+                },
+                {
+                    "label": "3",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        758.111382829669,
+                        268.9159517770754
+                    ]
+                },
+                {
+                    "label": "4",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        760.7897332838162,
+                        280.45346142570986
+                    ]
+                },
+                {
+                    "label": "5",
+                    "point_type": "Shelter_Point",
+                    "point": [
+                        765.1375933178485,
+                        291.43880663595047
+                    ]
+                },
+                {
+                    "label": "6",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        770.0106567350364,
+                        302.226534412969
+                    ]
+                },
+                {
+                    "label": "7",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        775.8074523745213,
+                        312.5553702796876
+                    ]
+                },
+                {
+                    "label": "8",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        781.6042480140062,
+                        322.88420614640626
+                    ]
+                },
+                {
+                    "label": "9",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        787.7653309540748,
+                        332.9824612938731
+                    ]
+                },
+                {
+                    "label": "10",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        794.6201901647324,
+                        342.6415810907089
+                    ]
+                },
+                {
+                    "label": "11",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        801.435839073222,
+                        352.3282669983855
+                    ]
+                },
+                {
+                    "label": "12",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        808.204788513266,
+                        362.0477841430638
+                    ]
+                },
+                {
+                    "label": "13",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        815.8805422333114,
+                        371.0450233335492
+                    ]
+                },
+                {
+                    "label": "14",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        823.839799305648,
+                        379.8164494948997
+                    ]
+                },
+                {
+                    "label": "15",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        833.6833144168775,
+                        386.32103818505163
+                    ]
+                },
+                {
+                    "label": "16",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        845.1111111111112,
+                        389.06862745098044
+                    ]
+                },
+                {
+                    "label": "17",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        858.0776161811198,
+                        386.35282044736175
+                    ]
+                },
+                {
+                    "label": "18",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        870.2853335507469,
+                        381.2367707079427
+                    ]
+                },
+                {
+                    "label": "19",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        880.7793742154681,
+                        373.21495628994955
+                    ]
+                },
+                {
+                    "label": "20",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        890.8154994875349,
+                        364.5169810541584
+                    ]
+                },
+                {
+                    "label": "21",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        900.5014828041092,
+                        355.44296164033557
+                    ]
+                },
+                {
+                    "label": "22",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        909.8923981929051,
+                        346.05204625153954
+                    ]
+                },
+                {
+                    "label": "23",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        918.5486252775005,
+                        336.10319458382514
+                    ]
+                },
+                {
+                    "label": "24",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        924.5808505356601,
+                        324.306185063948
+                    ]
+                },
+                {
+                    "label": "25",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        929.2440366607407,
+                        311.8710220637333
+                    ]
+                },
+                {
+                    "label": "26",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        932.7038274967456,
+                        299.06931512993623
+                    ]
+                },
+                {
+                    "label": "27",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        935.7343095159241,
+                        286.1406150593647
+                    ]
+                },
+                {
+                    "label": "28",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        937.3743757173145,
+                        272.9615116553349
+                    ]
+                },
+                {
+                    "label": "29",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        939.0144419187048,
+                        259.78240825130507
+                    ]
+                },
+                {
+                    "label": "30",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        940.6545081200952,
+                        246.60330484727527
+                    ]
+                },
+                {
+                    "label": "31",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        942.2945743214856,
+                        233.42420144324547
+                    ]
+                },
+                {
+                    "label": "32",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        943.934640522876,
+                        220.2450980392157
+                    ]
+                },
+                {
+                    "label": "33",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        749.9010270774978,
+                        215.58123249299723
+                    ]
+                },
+                {
+                    "label": "34",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        752.7593353237511,
+                        205.47557424677578
+                    ]
+                },
+                {
+                    "label": "35",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        765.3403639519279,
+                        207.84388409451344
+                    ]
+                },
+                {
+                    "label": "36",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        777.7397431337605,
+                        211.11732019851723
+                    ]
+                },
+                {
+                    "label": "37",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        790.1391223155931,
+                        214.39075630252103
+                    ]
+                },
+                {
+                    "label": "38",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        788.9486461251169,
+                        223.43837535014006
+                    ]
+                },
+                {
+                    "label": "39",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        779.1942628670616,
+                        221.34815036627108
+                    ]
+                },
+                {
+                    "label": "40",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        769.4398796090064,
+                        219.2579253824021
+                    ]
+                },
+                {
+                    "label": "41",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        759.6980356142411,
+                        217.11210293591012
+                    ]
+                },
+                {
+                    "label": "42",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        826.3295985060693,
+                        209.39075630252103
+                    ]
+                },
+                {
+                    "label": "43",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        846.0258873261913,
+                        204.64905714212128
+                    ]
+                },
+                {
+                    "label": "44",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        865.707189687839,
+                        199.85311620107512
+                    ]
+                },
+                {
+                    "label": "45",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        885.4126623769192,
+                        198.65774332178145
+                    ]
+                },
+                {
+                    "label": "46",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        902.5200746965454,
+                        209.39075630252103
+                    ]
+                },
+                {
+                    "label": "47",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        884.1860997571641,
+                        206.29551820728292
+                    ]
+                },
+                {
+                    "label": "48",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        866.1602582045358,
+                        210.51225623927223
+                    ]
+                },
+                {
+                    "label": "49",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        848.2687378791121,
+                        215.66579198518235
+                    ]
+                },
+                {
+                    "label": "50",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        830.3772175536883,
+                        220.81932773109247
+                    ]
+                },
+                {
+                    "label": "51",
+                    "point_type": "Shelter_Point",
+                    "point": [
+                        811.3295985060695,
+                        247.4859943977591
+                    ]
+                },
+                {
+                    "label": "52",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        810.5359477124186,
+                        268.2002801120448
+                    ]
+                },
+                {
+                    "label": "53",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        809.7422969187679,
+                        288.9145658263305
+                    ]
+                },
+                {
+                    "label": "54",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        808.9486461251171,
+                        309.6288515406162
+                    ]
+                },
+                {
+                    "label": "55",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        801.3295985060694,
+                        312.9621848739496
+                    ]
+                },
+                {
+                    "label": "56",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        807.0438842203553,
+                        315.343137254902
+                    ]
+                },
+                {
+                    "label": "57",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        814.4248366013074,
+                        317.4859943977591
+                    ]
+                },
+                {
+                    "label": "58",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        826.8057889822599,
+                        312.2478991596639
+                    ]
+                },
+                {
+                    "label": "59",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        839.1867413632123,
+                        306.77170868347343
+                    ]
+                },
+                {
+                    "label": "60",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        766.5676937441648,
+                        245.34313725490193
+                    ]
+                },
+                {
+                    "label": "61",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        773.4444316507415,
+                        248.4420569948234
+                    ]
+                },
+                {
+                    "label": "62",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        780.9878014474443,
+                        248.51718783334246
+                    ]
+                },
+                {
+                    "label": "63",
+                    "point_type": "Shelter_Point",
+                    "point": [
+                        788.3213688395973,
+                        246.52556916657556
+                    ]
+                },
+                {
+                    "label": "64",
+                    "point_type": "Shelter_Point",
+                    "point": [
+                        795.6153127917839,
+                        244.39075630252097
+                    ]
+                },
+                {
+                    "label": "65",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        788.3521961456491,
+                        247.37049646503777
+                    ]
+                },
+                {
+                    "label": "66",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        780.793303000618,
+                        249.39556470486187
+                    ]
+                },
+                {
+                    "label": "67",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        772.9947604498399,
+                        249.50952178602552
+                    ]
+                },
+                {
+                    "label": "68",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        852.9962651727362,
+                        241.5336134453781
+                    ]
+                },
+                {
+                    "label": "69",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        860.7091792631892,
+                        243.41899244526658
+                    ]
+                },
+                {
+                    "label": "70",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        868.5350695415281,
+                        244.65174920109877
+                    ]
+                },
+                {
+                    "label": "71",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        876.3024770814052,
+                        243.50202734920234
+                    ]
+                },
+                {
+                    "label": "72",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        883.4724556489267,
+                        240.1050420168067
+                    ]
+                },
+                {
+                    "label": "73",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        876.2075732401582,
+                        243.56450983050598
+                    ]
+                },
+                {
+                    "label": "74",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        868.4792986001098,
+                        245.33308280764487
+                    ]
+                },
+                {
+                    "label": "75",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        860.5937878747774,
+                        244.1839120623692
+                    ]
+                },
+                {
+                    "label": "76",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        805.3333333333333,
+                        337.6666666666665
+                    ]
+                },
+                {
+                    "label": "77",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        805.5986603406028,
+                        330.75932204489817
+                    ]
+                },
+                {
+                    "label": "78",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        814.6153127917837,
+                        329.53361344537814
+                    ]
+                },
+                {
+                    "label": "79",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        822.2343604108314,
+                        332.390756302521
+                    ]
+                },
+                {
+                    "label": "80",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        833.1867413632123,
+                        329.7717086834734
+                    ]
+                },
+                {
+                    "label": "81",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        854.963991381922,
+                        331.6021176916474
+                    ]
+                },
+                {
+                    "label": "82",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        871.5200746965456,
+                        332.62885154061627
+                    ]
+                },
+                {
+                    "label": "83",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        861.2589610396686,
+                        346.6593538877745
+                    ]
+                },
+                {
+                    "label": "84",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        846.9678362632308,
+                        356.2144945667975
+                    ]
+                },
+                {
+                    "label": "85",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        829.853408029879,
+                        358.343137254902
+                    ]
+                },
+                {
+                    "label": "86",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        818.4705501755303,
+                        355.69536740070345
+                    ]
+                },
+                {
+                    "label": "87",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        810.1482722919438,
+                        348.21490701734064
+                    ]
+                },
+                {
+                    "label": "88",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        808.4248366013076,
+                        336.6764705882353
+                    ]
+                },
+                {
+                    "label": "89",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        815.5486461251171,
+                        338.06694677871144
+                    ]
+                },
+                {
+                    "label": "90",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        824.1391223155932,
+                        338.81932773109247
+                    ]
+                },
+                {
+                    "label": "91",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        837.9486461251171,
+                        338.343137254902
+                    ]
+                },
+                {
+                    "label": "92",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        868.6629318394027,
+                        333.343137254902
+                    ]
+                },
+                {
+                    "label": "93",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        840.5676937441647,
+                        340.4859943977591
+                    ]
+                },
+                {
+                    "label": "94",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        825.3295985060695,
+                        340.72408963585434
+                    ]
+                },
+                {
+                    "label": "95",
+                    "point_type": "Normal_Point",
+                    "point": [
+                        816.0438842203552,
+                        340.24789915966386
+                    ]
+                }
+            ]
+        },
+        {
+            "bbox_info": {
+                "label": "face",
+                "face_type": "Passenger",
+                "bbox": [
+                    705.4827264239032,
+                    113.1349206349206,
+                    745.4827264239032,
+                    195.19374416433237
+                ]
+            },
+            "points_info": []
+        }
+    ]
+}
